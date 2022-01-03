@@ -1,4 +1,5 @@
-# Olga Surdova 
+# Olga Surdova
+
 ## КОНТАКТЫ
 
 _E-MAIL:_ __Surdova@tut.by__
@@ -12,6 +13,9 @@ _Discord:_ __Surdova#2522__
 I am 37 yo
 
 ## My experience
+
 nothing
+
 ## Language
+
 English A2+
