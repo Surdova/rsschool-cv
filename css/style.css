@@ -1,0 +1,27 @@
+
+html {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+* {
+    color:black
+}
+.h1 {
+    color:darkgreen;
+    margin-bottom: 0.25em;
+    font-size: 20px;
+}
+.h2,h3,h4,h5,h6 {
+    color:black;
+    margin-bottom: 0.25em;
+    font-size: 20px;
+}
+
+
+.contacts {
+font-size: 20px;
+font-weight: bold;
+}
+.description {
+    margin-top: 0.5em;
+    font-weight: bold;
+}
